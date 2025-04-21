@@ -1,0 +1,4 @@
+com\edu\asignaturas\AsignaturasServicioApplication.class
+com\edu\asignaturas\controller\AsignaturaController.class
+com\edu\asignaturas\model\Asignatura.class
+com\edu\asignaturas\repository\AsignaturaRepository.class

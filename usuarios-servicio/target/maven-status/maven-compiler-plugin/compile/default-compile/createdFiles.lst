@@ -1,0 +1,4 @@
+com\edu\usuarios\model\Usuario.class
+com\edu\usuarios\repository\UsuarioRepository.class
+com\edu\usuarios\controller\UsuarioController.class
+com\edu\usuarios\UsuariosServicioApplication.class
